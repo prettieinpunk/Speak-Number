@@ -22,6 +22,29 @@ h3 {
 }
 
 p {
-    linke height: 1.5;
+    line-height: 1.5;
+    margin: 0;
 }
 
+.play-again {
+    padding: 8px 15px;
+    border: 0;
+    background-color: pink;
+    border-radius: 5px ;
+    margin-top: 10px;
+
+
+}
+
+.msg {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.box {
+    border: 1px solid black;
+    display: inline-block;
+    font-size: 230px;
+    margin: 20px;
+    padding: 10px;
+}
